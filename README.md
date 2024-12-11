@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Solange Mac Intyre</h1>
-<h3 align="center">A frontend developer from Argentina, I´m also a Chatered Accountant and have a degree in business administration.</h3>
+<h3 align="center">I´m a Chatered Accountant and have a degree in business administration, I enjoy learning tech stuff.</h3>
 
-- 🌱 I’m currently trying to learn **about the metaverse and blockchain.**
+- 🌱 I’m currently trying to learn **Salesforce AND PYTHON.**
 
 - 📫 How to reach me **macintyre.sj@gmail.com**
 
-- 📄 Know about my experiences [https://macintyresj.github.io/resumeMS/](https://macintyresj.github.io/resumeMS/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
